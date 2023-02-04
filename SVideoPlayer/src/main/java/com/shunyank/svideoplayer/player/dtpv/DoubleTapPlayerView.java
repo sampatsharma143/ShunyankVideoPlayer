@@ -17,7 +17,7 @@ import com.shunyank.svideoplayer.R;
 /**
  * Custom player class for Double-Tapping listening
  */
-public class DoubleTapPlayerView extends CustomStyledPlayerView {
+public final class DoubleTapPlayerView extends CustomStyledPlayerView {
 
     private final GestureDetectorCompat gestureDetector;
     private final DoubleTapGestureListener gestureListener;

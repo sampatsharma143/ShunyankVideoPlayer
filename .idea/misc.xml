@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/drawable/controls_gradient.xml" value="0.298" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/drawable/exo_styled_controls_delete.xml" value="0.298" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/drawable/ic_launcher_background.xml" value="0.34791666666666665" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/drawable/ic_lock_24dp.xml" value="0.3671875" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/activity_player.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/activity_player_textureview.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/controls.xml" value="0.2604166666666667" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/exo_styled_player_control_view.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/exo_styled_player_view.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/exo_styled_settings_list.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/yt_overlay.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/SVideoPlayer/src/main/res/layout/yt_seconds_view.xml" value="0.35104166666666664" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/drawable/box.xml" value="0.2965" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/drawable/box_white.xml" value="0.298" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/activity_completed_videos.xml" value="0.25" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/activity_main.xml" value="0.16614583333333333" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/activity_video_player.xml" value="0.3390625" />
+        <entry key="..\:/ShunyankGroup_pvt_ltd/Own/ShunyankVideoPlayer/app/src/main/res/layout/video_layout.xml" value="0.2984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
